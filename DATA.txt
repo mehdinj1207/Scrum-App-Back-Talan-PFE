@@ -1,0 +1,83 @@
+***************** Users **********************
+[
+    {
+        "idUser": 1,
+        "cin": "07245526",
+        "firstname": "Haddar",
+        "lastname": "Med Zied",
+        "position": "architecte reseau",
+        "role": "Consultant",
+        "avatar": "assets/images/avatars/zied.jpg",
+        "email": null,
+        "tel": null,
+        "active": false
+    },
+    {
+        "idUser": 2,
+        "cin": "13254755",
+        "firstname": "Njema",
+        "lastname": "Mahdi",
+        "position": "administrateur systeme",
+        "role": "Consultant",
+        "avatar": "assets/images/avatars/mahdi.jfif",
+        "email": null,
+        "tel": null,
+        "active": false
+    },
+    {
+        "idUser": 3,
+        "cin": "07451586",
+        "firstname": "Ben Elhaj Ali",
+        "lastname": "Oumaima",
+        "position": "ingenieur informatique",
+        "role": "Consultante",
+        "avatar": "assets/images/avatars/oumaima.jpg",
+        "email": "oumaima.benelhadjali@gmail.com",
+        "tel": "+21625135708",
+        "active": false
+    },
+    {
+        "idUser": 4,
+        "cin": "07125688",
+        "firstname": "Kchaou",
+        "lastname": "Malak",
+        "position": "ingenieur informatique",
+        "role": "Consultante",
+        "avatar": "assets/images/avatars/Malak.jpg",
+        "email": null,
+        "tel": null,
+        "active": false
+    }
+]
+
+*********************** PROJECTS**********************
+
+[
+    {
+        "idProject": 2,
+        "reference": "java-2023-3",
+        "title": "Implementation of a system to ensure the smooth running of the scrum agile methodology",
+        "description": "As part of your end-of-studies internship, you will develop a web application to ensure the smooth development of the Scrum agile methodolog",
+        "owner": "Talan Tunisie",
+        "status": "In Progress",
+        "dateCreation": "2023-02-01"
+    },
+    {
+        "idProject": 3,
+        "reference": "java-2023-3",
+        "title": "Establishment of a stock management system",
+        "description": "As part of your end-of-studies internship, you will develop a web application to ensure stock management",
+        "owner": "BH Bank",
+        "status": "In Progress",
+        "dateCreation": "2023-02-01"
+    },
+    {
+        "idProject": 4,
+        "reference": "java-2023-4",
+        "title": "Remote control management tool for stb android",
+        "description": "Design and development of a Bluetooth Low Energy remote control management tool for an Android STB.",
+        "owner": "SagemCom",
+        "status": "Comleted",
+        "dateCreation": "2023-02-01"
+    }
+]
